@@ -23,7 +23,7 @@
 
 1. 将此仓库克隆到本地计算机：
    ```bash
-   git clone https://github.com/yourusername/Allpairs-Excel-TestCase-Generator.git
+   git clone https://github.com/ForAlready/AllPairsToExcel.git
    ```
 2. 进入项目目录：
    ```bash
@@ -93,7 +93,7 @@ This project provides a PowerShell script to generate combination test cases fro
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Allpairs-Excel-TestCase-Generator.git
+   git clone https://github.com/ForAlready/AllPairsToExcel.git
    ```
 2. Navigate to the project directory:
    ```bash
