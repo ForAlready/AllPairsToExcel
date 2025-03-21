@@ -28,7 +28,8 @@ System.String. The path to the Excel file(relative paths are supported).
 No direct output; results are saved to a new worksheet in the specified Excel file.
 
 .LINK
-Allpairs official website or relevant documentation
+- https://github.com/ForAlready/AllPairsToExcel
+- Allpairs official website or relevant documentation
 #>
 param(
     [Parameter(Mandatory=$true, Position=0)]
