@@ -28,6 +28,7 @@ System.String. 即Excel文件的路径(支持相对路径)。
 无直接输出，结果会保存到指定的Excel文件的新工作表中。
 
 .LINK
+- https://github.com/ForAlready/AllPairsToExcel Github说明
 Allpairs工具官方网站或相关文档
 #>
 param(
