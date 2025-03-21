@@ -28,6 +28,7 @@ AllPairsToExcel 是一个提供 PowerShell 脚本的项目，使用 Allpairs 工
    ```bash
    cd AllPairsToExcel
    ```
+3. 解压allpairs.zip将压缩包中的 `allpairs.exe`和`allpairs.pl`移动到与AllpairsExcelPS5.ps1/AllpairsExcelPS7.ps1在同一目录中
 
 ## 使用方法
 
@@ -113,6 +114,7 @@ AllPairsToExcel is a project that provides a PowerShell script to generate combi
    ```bash
    cd AllPairsToExcel
    ```
+3.Unzip the allpairs.zip file, and move the `allpairs.exe` and `allpairs.pl` in the compressed package to the same directory as AllpairsExcelPS5.ps1/AllpairsExcelPS7.ps1. 
 
 ## Usage
 
