@@ -7,7 +7,7 @@ AllPairsToExcel 是一个提供 PowerShell 脚本的项目，使用 Allpairs 工
 ## 功能
 
 - **自动化测试用例生成**：利用 Allpairs 工具从 Excel 数据中创建高效的测试用例组合。
-- **PowerShell 集成**：提供与 PowerShell 5 和 PowerShell 7 兼容的脚本，以增加灵活性。
+- **PowerShell 集成**：提供与 PowerShell 5 （windows系统自带）和 PowerShell 7 兼容的脚本，以增加灵活性。
 - **易于使用**：简单的命令行操作，具有清晰的参数要求。
 - **拖放支持**：允许将 Excel 文件拖放到批处理文件上，轻松执行脚本。
 
@@ -92,7 +92,7 @@ AllPairsToExcel is a project that provides a PowerShell script to generate combi
 ## Features
 
 - **Automated Test Case Generation**: Utilizes the Allpairs tool to create efficient test case combinations from Excel data.
-- **PowerShell Integration**: Offers scripts compatible with both PowerShell 5 and PowerShell 7 for flexibility.
+- **PowerShell Integration**: Offers scripts compatible with both PowerShell 5（It comes pre-installed with the Windows operating system. ） and PowerShell 7 for flexibility.
 - **Easy to Use**: Simple command-line operation with clear parameter requirements.
 - **Drag-and-Drop Support**: Allows you to drag and drop Excel files onto batch files to easily execute the script.
 
