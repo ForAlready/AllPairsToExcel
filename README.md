@@ -1,0 +1,2 @@
+# AllPairsToExcel
+使用Allpairs工具对Excel文件中的数据进行组合测试用例生成，并将结果保存到新的工作表中。
