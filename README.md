@@ -27,7 +27,7 @@
    ```
 2. 进入项目目录：
    ```bash
-   cd Allpairs-Excel-TestCase-Generator
+   cd AlIPairsToExcel
    ```
 
 ## 使用方法
@@ -97,7 +97,7 @@ This project provides a PowerShell script to generate combination test cases fro
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Allpairs-Excel-TestCase-Generator
+   cd AlIPairsToExcel
    ```
 
 ## Usage
