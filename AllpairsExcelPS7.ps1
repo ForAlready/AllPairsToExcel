@@ -29,7 +29,7 @@ System.String. 即Excel文件的路径(支持相对路径)。
 
 .LINK
 - https://github.com/ForAlready/AllPairsToExcel Github说明
-Allpairs工具官方网站或相关文档
+- Allpairs工具官方网站或相关文档
 #>
 param(
     [Parameter(Mandatory=$true, Position=0)]
