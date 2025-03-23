@@ -52,8 +52,8 @@ pwsh ./AllpairsExcelPS7.ps1 -ExcelFile "path_to_your_excel_file.xlsx"
 ```
 
 #### 使用拖放
-1. 找到项目目录中的 `pwsh.bat` 文件。
-2. 将您的 Excel 文件拖放到 `pwsh.bat` 文件上。
+1. 找到项目目录中的 `powershell7.bat` 文件。
+2. 将您的 Excel 文件拖放到 `powershell7.bat` 文件上。
 3. 这将自动以您的 Excel 文件作为输入执行 PowerShell 7 脚本。
 
 ## 示例
@@ -138,8 +138,8 @@ pwsh ./AllpairsExcelPS7.ps1 -ExcelFile "path_to_your_excel_file.xlsx"
 ```
 
 #### Using Drag-and-Drop
-1. Locate the `pwsh.bat` file in the project directory.
-2. Drag your Excel file and drop it onto the `pwsh.bat` file.
+1. Locate the `powershell7.bat` file in the project directory.
+2. Drag your Excel file and drop it onto the `powershell7.bat` file.
 3. This will automatically execute the PowerShell 7 script with your Excel file as the input.
 
 ## Example
