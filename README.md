@@ -1,6 +1,10 @@
 # AllPairsToExcel
+<p align="center">
+  <a href="#中文">中文</a> | <a href="#english">English</a>
+</p>
 
-## 项目描述
+---
+## <a id="中文">📖 项目简介</a>
 
 AllPairsToExcel 是一个提供 PowerShell 脚本的项目，使用 Allpairs 工具从 Excel 数据中生成组合测试用例。此工具有助于自动化测试用例生成过程，提高需要组合测试场景的测试效率。
 
@@ -82,11 +86,8 @@ pwsh ./AllpairsExcelPS7.ps1 -ExcelFile "path_to_your_excel_file.xlsx"
 
 - 感谢 Allpairs 工具的创建者为这个测试用例生成解决方案提供了基础。
 
-<hr>
-
-# AllPairsToExcel
-
-## Project Description
+---
+## <a id="english">📖 Project Overview</a>
 
 AllPairsToExcel is a project that provides a PowerShell script to generate combination test cases from Excel data using the Allpairs tool. This tool helps automate the test case generation process, improving testing efficiency for scenarios requiring combinatorial testing.
 
